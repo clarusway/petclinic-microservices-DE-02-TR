@@ -1,5 +1,5 @@
 //This Terraform template prepares a development environment for Petclinic Microservices Application.
-//User needs to select appropriate key name when launching the template.
+//User needs to select appropriate key name when launching the templates.
 
 provider "aws" {
   region = var.region
